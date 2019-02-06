@@ -1,0 +1,23 @@
+
+.App{
+    
+}
+
+
+.container {
+    position: absolute;
+    background-color: blueviolet;
+    height: 100%; 
+    width: 100%;
+}
+
+
+.content {
+    height: auto;
+    background-color: rgb(102, 110, 179);
+}
+
+.content p{
+    margin: 0;
+}
+
